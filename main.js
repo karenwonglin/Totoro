@@ -54,6 +54,7 @@ class TotoGenerator extends HTMLElement {
             }
         `;
 
+
         shadow.appendChild(style);
         shadow.appendChild(wrapper);
         wrapper.appendChild(button);
