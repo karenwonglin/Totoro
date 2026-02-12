@@ -42,14 +42,14 @@ class TotoGenerator extends HTMLElement {
                 font-size: 16px;
                 cursor: pointer;
                 border: none;
-                background-color: #4CAF50;
+                background-color: #2196F3;
                 color: white;
                 border-radius: 5px;
                 box-shadow: 0 2px 4px rgba(0,0,0,0.2);
                 transition: background-color 0.3s, box-shadow 0.3s;
             }
             button:hover {
-                background-color: #45a049;
+                background-color: #1976D2;
                 box-shadow: 0 4px 8px rgba(0,0,0,0.3);
             }
         `;
