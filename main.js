@@ -36,6 +36,7 @@ class TotoGenerator extends HTMLElement {
                 font-size: 24px;
                 font-weight: bold;
                 box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+                color: red;
             }
             button {
                 padding: 10px 20px;
